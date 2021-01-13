@@ -1,2 +1,2 @@
-# fai-group-one.github.io
-Foundations of Artificial Intelligence
+# algorithms-project-group-nine.github.io
+Search in Action
